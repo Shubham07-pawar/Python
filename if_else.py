@@ -9,4 +9,3 @@ else:
     else:
         if n > 20:
             print("not weird")
-            
