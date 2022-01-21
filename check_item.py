@@ -11,7 +11,7 @@ if pinput in item:
         r = stock[s] - quantity
         stock[s] = r
         print(f"Total bill is {total}")
-        print(f'available stock is {r}')
+        print(f'available stock is {r} ')
     else:
         print("Sorry item is out of stock")
 else:
